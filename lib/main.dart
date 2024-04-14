@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:smg_work/gold.dart';
 import 'package:smg_work/home_page.dart';
 import 'package:smg_work/platinum.dart';
+import 'package:smg_work/play_button.dart';
 import 'package:smg_work/plus.dart';
+import 'package:smg_work/tilt_box.dart';
 
 void main() {
   runApp(const MyApp());
